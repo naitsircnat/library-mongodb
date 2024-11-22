@@ -1,0 +1,32 @@
+[
+  {
+    "Book_id": "7777",
+    "Title": "Lord of the rings",
+    "ISBN": 99999,
+    "Page count": 500,
+    "Author": {
+      "First name": "JRR",
+      "Last name": "Tolkien"
+    },
+    "Publisher": {
+      "Website": "www.publisher1.com",
+      "Email": "publisher@publisher1.com"
+    },
+    "Reviews": ["this book was fantastic", "this book was bad"]
+  },
+  {
+    "Book_id": "6666",
+    "Title": "Harry Potter",
+    "ISBN": 8888,
+    "Page count": 600,
+    "Author": {
+      "First name": "JK",
+      "Last name": "Rowling"
+    },
+    "Publisher": {
+      "Website": "www.publisher2.com",
+      "Email": "publisher@publisher2.com"
+    },
+    "Reviews": ["this book was terrible", "this book was wonderful"]
+  }
+]

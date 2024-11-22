@@ -1,0 +1,68 @@
+[
+  {
+    "Book_id": "1234",
+    "Title": "Lord of the rings",
+    "ISBN": 99999,
+    "Page count": 500,
+    "Author": {
+      "First name": "JRR",
+      "Last name": "Tolkien"
+    },
+    "Publisher": {
+      "Website": "www.publisher1.com",
+      "Email": "publisher@publisher1.com"
+    },
+    "Reviews": ["this book was fantastic", "this book was bad"],
+    "Loans": [
+      {
+        "Due date": "2024-06-09",
+        "Borrowed date": "2024-05-09",
+        "User": {
+          "DOB": "2000-06-03",
+          "Name": "David"
+        }
+      },
+      {
+        "Due date": "2024-07-09",
+        "Borrowed date": "2024-06-09",
+        "User": {
+          "DOB": "2001-04-03",
+          "Name": "Mary"
+        }
+      }
+    ]
+  },
+  {
+    "Book_id": "5678",
+    "Title": "Harry Potter",
+    "ISBN": 5555,
+    "Page count": 800,
+    "Author": {
+      "First name": "JK",
+      "Last name": "Rowling"
+    },
+    "Publisher": {
+      "Website": "www.publisher2.com",
+      "Email": "publisher@publisher2.com"
+    },
+    "Reviews": ["this book was horrible", "this book was great"],
+    "Loans": [
+      {
+        "Due date": "2024-03-09",
+        "Borrowed date": "2024-02-09",
+        "User": {
+          "DOB": "2000-08-03",
+          "Name": "Mary"
+        }
+      },
+      {
+        "Due date": "2024-04-09",
+        "Borrowed date": "2024-03-09",
+        "User": {
+          "DOB": "2001-01-03",
+          "Name": "Andrew"
+        }
+      }
+    ]
+  }
+]
